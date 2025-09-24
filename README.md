@@ -12,7 +12,8 @@
  
  📡 I’m currently working on **a portfolio website!**
  
- 💻 I’m currently studying **Python, Front-End Development (CSS, HTML, JavaScript) & Back-End (PHP, MySQL). Also learning Blender, C++, Krita used mostly for game design.**
+ 💻 I’m currently studying **Python, Front-End Development (CSS, HTML, JavaScript) & Back-End (PHP, MySQL). 
+ Also learning Blender, C++, Krita used mostly for game design.**
 
  ⌨️ This is where you can reach out to me! - **krisblazewicz.1997@gmail.com**
   
