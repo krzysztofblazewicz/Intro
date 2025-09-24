@@ -12,7 +12,7 @@
  
  📡 I’m currently working on **a portfolio website!**
  
- 💻 I’m currently studying **Python, Front-End Development (CSS, HTML, JavaScript) & Back-End (PHP, MySQL) as well as Blender & C++.**
+ 💻 I’m currently studying **Front-End Development (CSS, HTML, JavaScript) & Back-End (PHP, MySQL) as well as Blender & C++.**
 
  ⌨️ This is where you can reach out to me! - **krisblazewicz.1997@gmail.com**
   
